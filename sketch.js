@@ -18,7 +18,7 @@ var rope3
 var bg_img
 var food
 var rabbit
-
+var eduardoHerbivoro
 var button, button2, button3
 var bunny
 var blink, eat, sad
